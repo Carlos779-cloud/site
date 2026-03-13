@@ -89,9 +89,15 @@ aside {
     transition: 0.3s;
 }
 
+#projetos article a {
+    text-decoration: none;
+    color: #38bdf8;
+    font-weight: bold;
+}
+
 #projetos article:hover {
     transform: translateY(-5px);
-    background: #38bdf8;
+    background: #334155;
 }
 
 /* TABELA */
